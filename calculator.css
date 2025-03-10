@@ -1,0 +1,23 @@
+button{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5%;
+    cursor: pointer;
+    padding: 2%;
+    background-color: rgb(202, 233, 234);
+}
+
+body{
+    text-align: center;
+    
+}
+
+#number1,#number2,#result{
+    text-decoration: underline;
+}
+
+
+
+
